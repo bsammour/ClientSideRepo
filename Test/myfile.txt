@@ -1,2 +1,3 @@
 This is a test file, change to the end of the file
 NEw NEw NEw
+This is a bug fix
